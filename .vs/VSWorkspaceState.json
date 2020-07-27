@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\1-EntradaSalida"
+    "\\1-EntradaSalida",
+    "\\3-InstruccionSwitch"
   ],
-  "SelectedNode": "\\1-EntradaSalida\\jsEntradaSalida-04.js",
+  "SelectedNode": "\\3-InstruccionSwitch\\jsInstruccionSwitch-10.js",
   "PreviewInSolutionExplorer": false
 }
